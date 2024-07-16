@@ -1,5 +1,5 @@
 {
-    "name": "adigital/cookie-consent-banner",
+    "name": "wearefuze/craft-cookie-consent-banner",
     "description": "Add a configurable cookie consent banner to the website.",
     "type": "craft-plugin",
     "version": "2.0.1",
